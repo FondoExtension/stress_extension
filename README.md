@@ -2,6 +2,7 @@
 
 Made for NURS180 by Colin Li
 
+A collection of visual and audio relaxation videos. For convenient access while studying.
 
 
 # How to install?
@@ -16,4 +17,6 @@ Currently only works on chrome. Here's a short guide:
 
 # Assets Disclaimer
 
-I do not own any of the images or videos used in this extension. They can be easily swapped with other assets.
+I do not own any of the images or videos used in this extension. They can be easily swapped with other assets. They are placeholders for demonstration purposes.
+
+Feel free to use this and change videos up to your preferences.
