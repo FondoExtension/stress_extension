@@ -1,6 +1,6 @@
 # Stress Extension 
 
-Made for NURS180 by Colin Li
+Customized chrome relaxation extension for NURS180 by Colin Li
 
 A collection of visual and audio relaxation videos. For convenient access while studying.
 
