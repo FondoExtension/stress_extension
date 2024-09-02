@@ -4,6 +4,8 @@ Customized chrome relaxation extension featuring PiP usage.
 
 A collection of visual and audio relaxation videos. For convenient access while studying.
 
+Demonstration:
+https://www.youtube.com/watch?v=aM8T7NrxORU
 
 # How to install?
 
