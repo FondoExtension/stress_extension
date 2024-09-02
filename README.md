@@ -1,6 +1,6 @@
 # Stress Extension 
 
-Customized chrome relaxation extension for NURS180 by Colin Li
+Customized chrome relaxation extension featuring PiP usage.
 
 A collection of visual and audio relaxation videos. For convenient access while studying.
 
