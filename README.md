@@ -1,24 +1,26 @@
-# Stress Extension 
+# Stress Extension
 
-Customized chrome relaxation extension featuring PiP usage.
+A customized Chrome relaxation extension featuring **Picture-in-Picture (PiP)** functionality for a calming experience while studying.
 
-A collection of visual and audio relaxation videos. For convenient access while studying.
+This extension offers a collection of visual and audio relaxation videos for easy access during study sessions.
 
-Demonstration:
-https://www.youtube.com/watch?v=aM8T7NrxORU
+## Demonstration
 
-# How to install?
+Watch a demonstration of the extension:  
+[YouTube Demo](https://www.youtube.com/watch?v=aM8T7NrxORU)
 
-Currently only works on chrome. Here's a short guide:
+## Installation Guide
 
-1. Go to chrome://extensions in your chrome browser url bar
-2. Enable "Developer Mode"
-3. Click on "load unpacked" and load this repository folder ("\stress_extension")
-4. Enable extension if needed
+This extension currently works only on Chrome. Follow these steps to install it:
 
+1. Open Chrome and navigate to `chrome://extensions` in the address bar.
+2. Enable **Developer Mode** (toggle at the top-right).
+3. Click **Load unpacked** and select the `stress_extension` folder from this repository.
+4. Enable the extension if it isn't automatically activated.
 
-# Assets Disclaimer
+## Assets Disclaimer
 
-I do not own any of the images or videos used in this extension. They can be easily swapped with other assets. They are placeholders for demonstration purposes.
+Please note, I do not own the images or videos used in this extension. These are placeholders and can be easily replaced with other assets as per your preference.
 
-Feel free to use this and change videos up to your preferences.
+Feel free to customize the extension by swapping out videos and other media as you see fit.
+
